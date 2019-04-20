@@ -6,5 +6,5 @@ function destructivelyAppendKitten (name) {
   // Add your functions and code here
 
 function destructivelyPrependKitten (name) {
-  return kittens.push
+  return kittens.unshift
 } 
